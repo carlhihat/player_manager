@@ -2,7 +2,7 @@
 #### 😎 The ultimate Player Manager tool for all your player management needs! 😎 
 
 ### Guide
-#### All components written by me can be found in the ```components``` directory and the ```tests``` directory. The rest is boilerplate
+#### All components written by me can be found in the ```src/components``` directory and the ```tests``` directory. The rest is boilerplate
 
 ### Quickplay
 #### Open the file```dist/index.html``` with your favorite web-browser.
